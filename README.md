@@ -6,3 +6,4 @@ Assignment - GIT
 3. add file random
 ![image](https://github.com/ipw0630/test-1/assets/166195995/0ad95261-ee7c-47d6-849f-ca8ee58978f4)
 4. Connect Local to Github
+5. Commit Pull Request
